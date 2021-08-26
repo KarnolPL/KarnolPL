@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KarnolPL
-- 👀 I’m interested in movies, games, books
+- 👋 Hi, I’m Maciej Lewandowski
+- 👀 I’m interested in movies, games, books and now programming
 - 🌱 I’m currently learning Python, Django and Git 
 - 💞️ I’m looking to collaborate on junior job to inprove my skills
 - 📫 How to reach me m_lewnadowski@wp.pl or on Linkedin --> Maciej Lewandowski
